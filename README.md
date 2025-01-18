@@ -2,7 +2,7 @@
 
 # ChessManager
 
-## System Description
+### System Description
 
 **ChessManager** is a chess tournament management system developed in Java. It allows the administration of individual and team tournaments, supporting different types of tournaments such as single elimination and points-based tournaments. The system manages players, arbiters, matches, and teams, providing a visual interface to view and edit information about the tournaments and their participants.
 
@@ -20,7 +20,7 @@
 - **Java**: The main programming language used for developing the application.
 - **Java Swing**: Used for building the graphical user interface (GUI).
 
-### How to Run the System
+## How to Run the System
 
 1. **Clone the repository**:
     ```sh
